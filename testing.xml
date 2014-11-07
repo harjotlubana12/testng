@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name='A'>
+	<test name='B'>
+		<classes>
+			<class name='com.company.classes.Google'></class>
+			<class name='com.company.classes.JenkinsTest'></class>
+		</classes>
+	</test>
+</suite>
