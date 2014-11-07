@@ -7,4 +7,9 @@ public class TextTest {
 	public void textTest() {
 		System.out.println("First jenkins project");
 	}
+	
+	@Test
+	public void isBranchWorking() {
+		System.out.println("-------->>>>>>>>>>>>>branch is working!!!!!!!!!!!!!!");
+	}
 }
