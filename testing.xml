@@ -2,8 +2,8 @@
 <suite name='A'>
 	<test name='B'>
 		<classes>
-			<class name='com.company.classes.Google'></class>
-			<class name='com.company.classes.JenkinsTest'></class>
+			<class name='com.company.BranchB1'></class>
+			<class name='com.company.TextTest'></class>
 		</classes>
 	</test>
 </suite>
