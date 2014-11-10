@@ -3,7 +3,6 @@
 	<test name='B'>
 		<classes>
 			<class name='com.company.BranchB1'></class>
-			<class name='com.company.TextTest'></class>
 		</classes>
 	</test>
 </suite>
